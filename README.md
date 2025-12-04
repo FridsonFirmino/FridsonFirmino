@@ -1,7 +1,7 @@
 ## Hi everyone, Fridson Firmino here!! 
 
 Welcome to my Github
----
+
 [![](https://visitcount.itsvg.in/api?id=fridsonfirmino&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
